@@ -36,7 +36,7 @@ The goal was to help sellers identify popular products by analyzing user sentime
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Flask, Django  
 - **Database**: MySQL, phpMyAdmin  
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, Github Desktop
 
 ### ⚙️ Hardware & Networking
 - Arduino Uno, Raspberry Pi  
