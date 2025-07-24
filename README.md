@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Shahidul Islam Fuad
 
 🎓 CSE Graduate from **Brac University** | 💻 Aspiring Web Developer  
-📍 Based in **Dhaka, Bangladesh** | 🔎 Focused on Full-Stack Web Development
+📍 Dhaka, Bangladesh | 🔎 Focused on Full-Stack Web Development
 
 ---
 
@@ -11,53 +11,54 @@
 - **A Levels (2020)** – *Manarat Dhaka International College (MDIC)*  
 - **B.Sc. in Computer Science and Engineering (2020–2024)** – *Brac University*  
 
-During my undergraduate studies, I gained strong foundations in programming, web development and electronics. I completed multiple team-based projects and solo assignments using technologies like Python, Flask, Django, HTML, CSS, JavaScript, and MySQL. I also worked with microcontrollers (Arduino, Raspberry Pi), digital electronics (sensors, ICs, CMOS), and networking tools (Cisco Packet Tracer).
+Throughout my undergraduate journey, I built a strong foundation in programming, web development, and electronics. I completed several team-based and solo projects using technologies such as Python, Flask, Django, JavaScript, HTML, CSS, and MySQL. I also gained hands-on experience with microcontrollers (Arduino, Raspberry Pi), sensors, ICs, digital circuits, and networking tools like Cisco Packet Tracer.
 
 ---
 
-## 🧠 Thesis Work (Sentiment Analysis in Bengali)
+## 🧠 Thesis: Sentiment Analysis in Bengali
 
-My undergraduate thesis focused on **sentiment analysis using NLP techniques**. We collected and cleaned 48,000 e-commerce reviews (in Bengali, English, and Romanized Bangla) from **Daraz**. We introduced a **new Bengali review dataset**, applied preprocessing, and trained several models including:
-- ML: Naive Bayes, Random Forest, Logistic Regression, SVM
-- DL: BiLSTM, Multilingual BERT, BanglaBERT
+My undergraduate thesis focused on **Natural Language Processing (NLP)** and sentiment analysis. We collected and processed 48,000 product reviews from the e-commerce platform **Daraz**, written in Bengali, English, and Romanized Bangla. After cleaning the data, we created a Bengali-only dataset and applied several machine learning and deep learning models:
 
-Our goal was to help sellers identify quality products through user sentiment analysis in the Bengali language space.
+- **Machine Learning**: Naive Bayes, Random Forest, Logistic Regression, SVM  
+- **Deep Learning**: BiLSTM, Multilingual BERT, BanglaBERT
+
+The aim was to help sellers identify popular products based on user sentiment in the Bengali language space.
 
 ---
 
-## 🧑‍💻 Skills & Technologies learned from the CSE undergraduate degree
+## 🧑‍💻 Skills & Technologies Gained During My CSE Degree
 
 ### 💻 Programming
-- Python and JavaScript
-- Familiar with C++ and Assembly languages
+- **Python** and **JavaScript**
+- Familiar with **C++** and **Assembly**
 
 ### 🌐 Web Development
-- HTML, CSS, JavaScript  
-- Flask, Django  
-- MySQL, phpMyAdmin  
-- GitHub
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Flask, Django  
+- **Database**: MySQL, phpMyAdmin  
+- **Version Control**: Git, GitHub
 
-### ⚙️ Electronics & Tools
+### ⚙️ Hardware & Networking
 - Arduino Uno, Raspberry Pi  
 - Sensors, ICs, CMOS, breadboards  
-- Cisco Packet Tracer
+- Cisco Packet Tracer (network simulations)
 
 ---
 
 ## 🎯 Current Focus
 
-I'm now fully focused on:
-- Building **real-world solo full-stack applications** (MERN stack is next)  
-- Preparing for my **first professional web development role**
+I’m currently focused on:
+- Building real-world **solo full-stack applications**
+- Advancing my skills with the **MERN stack**
+- Preparing for my **first professional role** in web development
 
 ---
 
 ## 📫 Contact
 
-- 📬 Email: **si.fuad.bd@gmail.com**  
-- 🌍 LinkedIn: *(coming soon)*  
-- 🖥️ Portfolio Website: *(coming soon)*
+- 📬 Email: **fuadshahidulislam@gmail.com**  
+- 🌐 LinkedIn: [linkedin.com/in/shahidul-islam-fuad-23077923b](https://www.linkedin.com/in/shahidul-islam-fuad-23077923b)
 
 ---
 
-_Thank you for visiting my GitHub profile! Feel free to explore the pinned repositories to see my academic and learning-based work._
+_Thank you for visiting my GitHub profile. Explore my pinned repositories to see the academic and learning-based projects that shaped my journey._
