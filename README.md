@@ -29,7 +29,7 @@ The goal was to help sellers identify popular products by analyzing user sentime
 ## 🧑‍💻 Skills & Technologies Gained During My CSE Degree
 
 ### 💻 Programming
-- **Python** and **JavaScript**  
+- **Python**
 - Familiar with **C++** and **Assembly**
 
 ### 🌐 Web Development
