@@ -47,18 +47,20 @@ The goal was to help sellers identify popular products by analyzing user sentime
 
 ## 📚 Technologies Explored Through Online Learning
 
-After completing my degree, I further expanded my knowledge through YouTube tutorials and project-based playlists from popular creators such as **Hablu Programmer**, **Procoder BD**, **Learn with Sumit**, **Rabbil Hasan**, and others.
+After completing my degree, I continued learning modern web technologies by following YouTube playlists and hands-on tutorials from popular creators like **Hablu Programmer**, **Procoder BD**, **Learn with Sumit**, **Rabbil Hasan**, and others.
 
-Through this self-guided learning, I explored:
+Through this self-driven exploration, I covered:
 
 - **Frontend**: HTML, CSS, JavaScript, Sass, Bootstrap, Tailwind CSS  
-- **Frameworks**: React, Vue.js  
+- **Frameworks & Libraries**: React, React Native, Angular.js, Vue.js, Next.js, Flask, Django  
+- **Languages**: TypeScript.js  
 - **Backend**: Node.js, Express.js, PHP, Laravel, .NET  
 - **Databases**: MySQL, MongoDB (Mongoose)  
 - **CMS & Tools**: WordPress, Elementor, WooCommerce  
-- **Others**: REST API, JWT, Fetch API, JSON, Git, GitHub, GitHub Desktop, Inertia.js, Eloquent ORM
+- **APIs & Utilities**: REST API, JWT, Fetch API, AJAX, Axios, JSON, Postman  
+- **Others**: Git, GitHub, GitHub Desktop, Inertia.js, Eloquent ORM
 
-Although I haven’t built complete projects using all of these technologies yet, this learning journey has given me practical insight into how they work. It means I can understand, contribute to, or extend projects involving them more confidently. Combined with AI-assisted workflows and continued practice, I’m well-equipped to build full-stack applications effectively when needed.
+While I haven’t yet built complete projects with these technologies (except for basic ones using HTML, CSS, and JavaScript), the purpose of this learning journey was to familiarize myself with modern web development stacks and concepts. No projects were developed during this phase—my goal was to build foundational awareness and confidence. With this exposure and the support of AI tools, I now feel well-prepared to build and contribute to complete full-stack applications efficiently when required.
 
 ---
 
